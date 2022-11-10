@@ -439,6 +439,10 @@ snippet `\\ln ot` "in" iAm
 \lnot 
 endsnippet
 
+snippet sst "subset" iAm
+\subset 
+endsnippet
+
 snippet sse "subseteq" iAm
 \subseteq 
 endsnippet
