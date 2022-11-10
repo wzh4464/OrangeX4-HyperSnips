@@ -265,6 +265,10 @@ snippet KK "K" iAm
 \mathbb{K}
 endsnippet
 
+snippet FF "F" iAm
+\mathbb{F}
+endsnippet
+
 snippet TT "T" iAm
 ^{\mathrm{T}}
 endsnippet
