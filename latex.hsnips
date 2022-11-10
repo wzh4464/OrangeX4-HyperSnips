@@ -262,7 +262,7 @@ snippet mbm "mathbm" iAm
 endsnippet
 
 snippet KK "K" iAm
-^{\mathrm{K}}
+\mathbb{K}
 endsnippet
 
 snippet TT "T" iAm
