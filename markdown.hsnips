@@ -243,6 +243,10 @@ snippet KK "K" iAm
 ^{\mathrm{K}}
 endsnippet
 
+snippet FF "F" iAm
+\mathbb{F}
+endsnippet
+
 snippet TT "T" iAm
 ^{\mathrm{T}}
 endsnippet
@@ -415,6 +419,10 @@ endsnippet
 
 snippet `\\ln ot` "in" iAm
 \lnot 
+endsnippet
+
+snippet sst "subset" iAm
+\subset 
 endsnippet
 
 snippet sse "subseteq" iAm
