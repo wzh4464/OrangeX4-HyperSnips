@@ -588,7 +588,7 @@ ${1}
 $$$0
 endsnippet
 
-snippet eqt "equation" wA
+snippet eqn "equation" wA
 \begin{equation}
   ${1}
 \end{equation}
