@@ -130,7 +130,7 @@ snippet hat "hat" iAm
 \hat{$1}$0
 endsnippet
 
-snippet hsq "\sqrt{}" iAm
+snippet sqt "\sqrt{}" iAm
 \sqrt{${1}}$0
 endsnippet
 
@@ -161,7 +161,7 @@ snippet tp "to the ... power" iAm
 ^{${1:2}}$0
 endsnippet
 
-snippet sr "square" iAm
+snippet sqa "square" iAm
 ^{2}$0
 endsnippet
 
@@ -419,6 +419,10 @@ endsnippet
 
 snippet `\\ln ot` "in" iAm
 \lnot 
+endsnippet
+
+snippet rar "rightarrow" iAm
+\rightarrow
 endsnippet
 
 snippet sst "subset" iAm
